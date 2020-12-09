@@ -36,6 +36,12 @@ I am also proficient with metric collection and monitoring tools such as Grafana
   <a href="https://www.rabbitmq.com/" target="_blank" >
     <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/rabbitmq.png"  height="90"/>
   </a>
+  <a href="https://vuejs.org/" target="_blank" >
+    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/vuejs.png"  height="90"/>
+  </a>
+  <a href="https://vuex.vuejs.org/" target="_blank" >
+    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/vuex.svg"  height="90"/>
+  </a>
  </p>
   
 ### Cloud Providers
