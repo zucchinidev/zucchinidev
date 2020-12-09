@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
 ### Hi dude!!
 
 <!--
@@ -35,7 +34,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/html_css_js.png" height="70" />
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/logo_rabbitmq.svg"  height="90"/>
+    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/rabbitmq.png"  height="90"/>
   </a>
  </p>
   
