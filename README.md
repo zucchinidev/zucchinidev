@@ -1,5 +1,11 @@
 ### Hi dude!!
 
+```{css, echo=FALSE}
+.rabbitmq {
+  max-width: 145px !important;
+}
+```
+
 <!--
 **zucchinidev/zucchinidev** is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
 -->
@@ -34,7 +40,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/html_css_js.png" height="70" />
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/logo_rabbitmq.svg"  height="90" style="max-width: 145px;" />
+    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/logo_rabbitmq.svg"  height="90"/>
   </a>
  </p>
   
