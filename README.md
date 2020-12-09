@@ -38,7 +38,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
   
  <p float="left"> 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/google_cloud.gif"  height="75" />
   </a>
  </p>
   
@@ -66,5 +66,5 @@ I am also proficient with metric collection and monitoring tools such as Grafana
 
 ### 📫 How to reach me? 
 
-  ⦿ Follow me on [Twitter](https://twitter.com/zucchinidev)
+  ⦿ Follow me on [Twitter](https://twitter.com/zucchinidev) <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/zucchinidev/) <br>
