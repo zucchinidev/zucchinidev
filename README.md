@@ -20,6 +20,10 @@ I am also proficient with metric collection and monitoring tools such as Grafana
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/golang.gif"  height="90" />
   </a>
+  <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/js.png"  height="90" />
+  <a href="https://www.rabbitmq.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/logo_rabbitmq.gif"  height="90" />
+  </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/docker.gif"  height="80" /> 
   </a>
@@ -43,7 +47,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
  </p>
   
 ### Monitoring
-  
+
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/grafana.gif" height="60" />&nbsp;&nbsp;
@@ -60,7 +64,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/mongo.gif" height="80" />
   </a>
   <a href="https://mariadb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/mariadb_logo_black_transparent.png" height="80" />
+    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/mariadb_logo_black_transparent.png" height="70" />
   </a>
 </p>
 
