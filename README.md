@@ -37,7 +37,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
 ### Cloud Providers
   
  <p float="left"> 
-  <a href="https://aws.amazon.com/" target="_blank" >
+  <a href="https://cloud.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/google_cloud.gif"  height="75" />
   </a>
  </p>
