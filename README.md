@@ -34,13 +34,13 @@ I am also proficient with metric collection and monitoring tools such as Grafana
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/html_css_js.png" height="70" />
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/rabbitmq.png"  height="90"/>
+    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/rabbitmq.png"  height="70"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" >
-    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/vuejs.png"  height="90"/>
+    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/vuejs.png"  height="70"/>
   </a>
   <a href="https://vuex.vuejs.org/" target="_blank" >
-    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/vuex.svg"  height="90"/>
+    <img class="rabbitmq" src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/vuex.svg"  height="80"/>
   </a>
  </p>
   
