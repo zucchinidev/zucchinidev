@@ -22,7 +22,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
   </a>
   <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/js.png"  height="90" />
   <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/logo_rabbitmq.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/logo_rabbitmq.svg"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/docker.gif"  height="80" /> 
