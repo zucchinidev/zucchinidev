@@ -20,10 +20,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/golang.gif"  height="90" />
   </a>
-  <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/js.png"  height="90" />
-  <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/logo_rabbitmq.svg"  height="90" />
-  </a>
+  <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/js.png"  height="70" />
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/docker.gif"  height="80" /> 
   </a>
@@ -35,6 +32,9 @@ I am also proficient with metric collection and monitoring tools such as Grafana
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/html_css_js.png" height="70" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/logo_rabbitmq.svg"  height="90" style="max-width: 145px;" />
   </a>
  </p>
   
