@@ -51,9 +51,6 @@ I am also proficient with metric collection and monitoring tools such as Grafana
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/prometheus.gif" height="65" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/influxdata.gif" height="60" />
-  </a>
 </p>
 
 ### Databases
@@ -61,6 +58,9 @@ I am also proficient with metric collection and monitoring tools such as Grafana
  <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/mongo.gif" height="80" />
+  </a>
+  <a href="https://mariadb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/mariadb_logo_black_transparent.png" height="80" />
   </a>
 </p>
 
