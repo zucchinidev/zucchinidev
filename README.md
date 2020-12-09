@@ -30,7 +30,7 @@ I am also proficient with metric collection and monitoring tools such as Grafana
     <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/gitlab-cicd.gif"  height="65" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/html-css-js.png" height="70" />
+    <img src="https://raw.githubusercontent.com/zucchinidev/zucchinidev/master/images/html_css_js.png" height="70" />
   </a>
  </p>
   
