@@ -6,7 +6,7 @@
 
 I am Andrea, a passionate and creative developer from [Spain](https://en.wikipedia.org/wiki/Spain)&nbsp;with a strong interest in distributed systems. I stand out for my skills working in both client and server environments. 
 
-![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=zucchinidev&hide=issues&show_icons=true&theme=onedark)
+![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=zucchinidev&hide=issues&show_icons=true&theme=onedark&count_private=true&show_icons=true)
 
 I enjoy building distributed systems over Cloud-Native technologies such as Kubernetes, or using message brokers such as RabbitMQ as a middleman for decoupled microservices from each other.
 
